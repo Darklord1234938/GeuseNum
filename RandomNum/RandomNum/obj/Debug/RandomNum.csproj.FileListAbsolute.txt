@@ -1,0 +1,14 @@
+C:\Users\darkl\source\repos\RandomNum\RandomNum\bin\Debug\RandomNum.exe.config
+C:\Users\darkl\source\repos\RandomNum\RandomNum\bin\Debug\RandomNum.exe
+C:\Users\darkl\source\repos\RandomNum\RandomNum\bin\Debug\RandomNum.pdb
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.csproj.AssemblyReference.cache
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.Form1.resources
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.Properties.Resources.resources
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.csproj.GenerateResource.cache
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.exe
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.pdb
+C:\Users\darkl\source\repos\RandomNum\RandomNum\bin\Debug\RandomNum.exe.manifest
+C:\Users\darkl\source\repos\RandomNum\RandomNum\bin\Debug\RandomNum.application
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.exe.manifest
+C:\Users\darkl\source\repos\RandomNum\RandomNum\obj\Debug\RandomNum.application
